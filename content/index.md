@@ -4,8 +4,8 @@ title: "Deven AI Mentor Home"
 Creator: **Deven Seenath**.
 
 > [!warning] Research in progress
-> **604 / 721** available videos have individual records. **117 remain incomplete.**
-> Completed videos cover **459,273 / 1,222,023 research words (37.6%)**. Short clips count as one video each; video count alone does not measure progress through the text.
+> **605 / 721** available videos have individual records. **116 remain incomplete.**
+> Completed videos cover **461,809 / 1,222,023 research words (37.8%)**. Short clips count as one video each; video count alone does not measure progress through the text.
 > Cross-video synthesis, the final knowledge base, and the personal mentor remain unfinished.
 
 ## Browse
@@ -19,7 +19,7 @@ Each source note retains quotations, URLs, caption cue indices, millisecond rang
 
 ## Publication
 
-Updated **2026-10-19 23:08 (Asia/Manila)**. This is a reading copy of the current Obsidian research vault. New source notes will appear when the next research checkpoint is published.
+Updated **2026-10-19 23:11 (Asia/Manila)**. This is a reading copy of the current Obsidian research vault. New source notes will appear when the next research checkpoint is published.
 
 Additional source-list IDs without caption files: **11**.
 

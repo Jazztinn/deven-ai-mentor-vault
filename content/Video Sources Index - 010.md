@@ -1,6 +1,7 @@
 ---
 title: "Video Sources Index - 010"
 ---
+- [[Deven Seenath - jYawvwOztIo]]
 - [[Deven Seenath - jh2W_najTP8]]
 - [[Deven Seenath - jl46yEFTK6I]]
 - [[Deven Seenath - jmz0KM-wl7w]]
@@ -50,6 +51,5 @@ title: "Video Sources Index - 010"
 - [[Deven Seenath - noI6HxT01Fo]]
 - [[Deven Seenath - nrkI35_bfCk]]
 - [[Deven Seenath - o86Sa3nEWQw]]
-- [[Deven Seenath - oCNssub8ucM]]
 
 [[Video Sources Index]] · [[index|Vault Home]]
