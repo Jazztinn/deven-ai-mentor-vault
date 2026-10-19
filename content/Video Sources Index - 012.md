@@ -1,6 +1,7 @@
 ---
 title: "Video Sources Index - 012"
 ---
+- [[Deven Seenath - ra7tigXA5FM]]
 - [[Deven Seenath - rad3FXLn8pc]]
 - [[Deven Seenath - rc_BorU5hGI]]
 - [[Deven Seenath - rePEqum30PU]]
@@ -50,6 +51,5 @@ title: "Video Sources Index - 012"
 - [[Deven Seenath - vXmPnwIoJa4]]
 - [[Deven Seenath - vwxQfmBvk6E]]
 - [[Deven Seenath - w-DnLM3_VuI]]
-- [[Deven Seenath - w2rTyl8_8N0]]
 
 [[Video Sources Index]] · [[index|Vault Home]]
