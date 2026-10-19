@@ -27,7 +27,9 @@ title: "Video Sources Index - 002"
 - [[Deven Seenath - 6DfdOo0mYEA]]
 - [[Deven Seenath - 6GEaFfjXt6k]]
 - [[Deven Seenath - 6MDPFFBSki0]]
+- [[Deven Seenath - 6QnH1mW0wBk]]
 - [[Deven Seenath - 6UjgaSpBJ1g]]
+- [[Deven Seenath - 6WcVJh6k9vg]]
 - [[Deven Seenath - 6axEFr49cDE]]
 - [[Deven Seenath - 6cq6Q8ryLbk]]
 - [[Deven Seenath - 6d71WV1Pghs]]
@@ -49,7 +51,5 @@ title: "Video Sources Index - 002"
 - [[Deven Seenath - 8O9iY9N96as]]
 - [[Deven Seenath - 8WdwpBFCvy0]]
 - [[Deven Seenath - 8ZUxI_fRj3E]]
-- [[Deven Seenath - 8oynnng5LVk]]
-- [[Deven Seenath - 8ruy8aktxkA]]
 
 [[Video Sources Index]] · [[index|Vault Home]]
