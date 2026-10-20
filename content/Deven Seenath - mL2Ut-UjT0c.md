@@ -4,7 +4,7 @@ title: "Deven Seenath — mL2Ut-UjT0c"
 #deven-seenath/source #research/individual
 
 > [!info] Individual source record
-> Full-corpus synthesis and the personal mentor remain unfinished.
+> This note preserves an individual video review. Cross-video conclusions and mentor tools are separate layers.
 
 Source: [YouTube video](https://www.youtube.com/watch?v=mL2Ut-UjT0c)
 

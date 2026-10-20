@@ -17,6 +17,6 @@ Both original and previous cleaned files remain unchanged. Lossless JSON preserv
 
 ## Completion Gate
 
-All 721 available videos need individual records before separate synthesis. Additional missing-source IDs remain disclosed. This vault currently provides source notes and navigation; it does not contain a finished mentor.
+Individual coverage: 721 / 721 available videos. Cross-video synthesis status: **in_progress**. Additional missing-source IDs remain disclosed. The personal GPT and its live connections are separate work.
 
 [[index|Vault Home]] · [[Video Sources Index]]

@@ -4,7 +4,7 @@ title: "Deven Seenath — NiMb7qA_io4"
 #deven-seenath/source #research/individual
 
 > [!info] Individual source record
-> Full-corpus synthesis and the personal mentor remain unfinished.
+> This note preserves an individual video review. Cross-video conclusions and mentor tools are separate layers.
 
 Source: [YouTube video](https://www.youtube.com/watch?v=NiMb7qA_io4)
 
