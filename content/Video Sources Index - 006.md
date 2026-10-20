@@ -1,6 +1,9 @@
 ---
 title: "Video Sources Index - 006"
 ---
+- [[Deven Seenath - MVl9ae7R_GU]]
+- [[Deven Seenath - MZN2WL4HXLo]]
+- [[Deven Seenath - MernTW9joY8]]
 - [[Deven Seenath - MgrYikAbVpY]]
 - [[Deven Seenath - MuYWuPPtg3c]]
 - [[Deven Seenath - MwNRJqCv35s]]
@@ -48,8 +51,5 @@ title: "Video Sources Index - 006"
 - [[Deven Seenath - Qn-j3yX2ynk]]
 - [[Deven Seenath - QpDeA6U4Tok]]
 - [[Deven Seenath - QuPfUuYTRjE]]
-- [[Deven Seenath - R3L1avNFuTs]]
-- [[Deven Seenath - RERIOSNXFUY]]
-- [[Deven Seenath - RFk3oWGC9Z0]]
 
 [[Video Sources Index]] · [[index|Vault Home]]
