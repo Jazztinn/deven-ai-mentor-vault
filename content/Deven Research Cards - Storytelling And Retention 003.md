@@ -7,7 +7,7 @@ title: "Storytelling And Retention 003"
 
 This batch adds visual storytelling, story packaging, product narrative, conflict, curiosity, calls to action, pacing, and frame study. It also contains many platform, monetization, and unrelated claims. Examples and retention or distribution effects remain attributed unless independently verified.
 
-Batch: storytelling-B003. Source findings accounted for: 65. Cards: 14.
+Batch: storytelling-B003. Source findings accounted for: 65. Cards: 15.
 
 Topic names organize the queue. A card can inform several chapters, including topics outside this file’s label.
 
@@ -289,6 +289,26 @@ Finding IDs: ytSoksrM5WY:C0001:F0002.
 
 [[Deven Seenath - ytSoksrM5WY]]
 
+## Channel history is described as an alternative eligibility route
+
+Card: storytelling-B003-K015 · Kind: source advice.
+
+Source gives a student example without ID and estimates ordinary account use may unlock advanced features in two weeks to two months. The account story and timing are unverified and not a guarantee.
+
+**Conditions:** Available routes depend on the actual account and current official criteria; another person’s ID is not an inferred solution.
+
+**Application (researcher inference):** Check the account’s actual options and official help rather than relying on a waiting-time promise.
+
+**Limits:** No universal timing or access entitlement is established.
+
+> And then after around two months, you know, it could be anywhere from two weeks to two months, um, just using the the channel in general, watching videos on it and stuff, your channel history can alo also uh, you know, get this feature uh, advanced features number three enabled.
+
+[vB6aE3PHINQ 08:29:06.080–08:29:23.430](https://www.youtube.com/watch?v=vB6aE3PHINQ&t=30546s) · Cues: 31233, 31235, 31237, 31239, 31241, 31243, 31245, 31247.
+
+Finding IDs: vB6aE3PHINQ:C0065:F0002.
+
+[[Deven Seenath - vB6aE3PHINQ]]
+
 ## Findings Without An Inferred Lesson
 
 These findings remain in the individual corpus. Disposition is based on content, never the queue label.
@@ -308,10 +328,6 @@ Finding IDs: vB6aE3PHINQ:C0050:F0011.
 This source reports a personal result or promotional outcome, but gives no repeatable action or decision in this finding; keep it as an attributed, unverified case.
 
 Finding IDs: vB6aE3PHINQ:C0054:F0006.
-
-This finding offers only an incomplete general prompt or goal and gives no actionable method in the cited statement.
-
-Finding IDs: vB6aE3PHINQ:C0065:F0002.
 
 This source reports a personal result or promotional outcome, but gives no repeatable action or decision in this finding; keep it as an attributed, unverified case.
 

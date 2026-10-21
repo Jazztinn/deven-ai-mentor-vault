@@ -7,7 +7,7 @@ title: "Cross-Video Synthesis"
 
 This layer compares the saved individual video reviews and turns source claims into conditional applications. It is separate from the personal GPT and its live connections.
 
-Individual records: **721 / 721 videos**, **1,222,023 source words**. Semantic synthesis batches: **16 / 54**. Findings accounted for: **3,119 / 10,400**. Integrated topics: **6 / 16**.
+Individual records: **721 / 721 videos**, **1,222,023 source words**. Semantic synthesis batches: **21 / 54**. Findings accounted for: **4,198 / 10,400**. Integrated topics: **7 / 16**.
 
 [[Synthesis Research Method]] · [[Synthesis External Definitions]]
 
@@ -20,12 +20,12 @@ Individual records: **721 / 721 videos**, **1,222,023 source words**. Semantic s
 - [[Deven Synthesis - Experiments And Iteration]]
 - Publishing And Distribution — pending
 - Audience And Channel Identity — pending
-- Monetization And Economics — pending
+- Monetization And Economics — in progress
 - [[Deven Synthesis - Production And AI Tools]]
 - Teams And Scaling — pending
 - Platform Claims And View Plateaus — pending
 - Rights And Platform Risk — pending
-- Mindset And Skill Development — pending
+- [[Deven Synthesis - Mindset And Skill Development]]
 - Offers And Testimonials — pending
 - Adjacent Business Models — pending
 - Context And Noninstructional Content — in progress
@@ -48,6 +48,7 @@ These notes retain specific methods, conditions, quotations and dispositions beh
 - [[Deven Research Cards - Experiments And Iteration 002]]
 - [[Deven Research Cards - Production And AI Tools 001]]
 - [[Deven Research Cards - Production And AI Tools 002]]
+- [[Deven Research Cards - Mindset And Skill Development 001]]
 - [[Deven Research Cards - Context And Noninstructional Content 001]]
 - [[Deven Research Cards - Context And Noninstructional Content 002]]
 

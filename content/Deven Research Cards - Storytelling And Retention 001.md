@@ -7,7 +7,7 @@ title: "Storytelling And Retention 001"
 
 This batch offers advice on open loops, story premises, emotional sequencing, audiovisual cues, visual storytelling, language access, calls to action, and pacing review. Many other findings concern monetization, production, platform claims, or unrelated context. Performance and distribution effects remain attributed and unverified.
 
-Batch: storytelling-B001. Source findings accounted for: 219. Cards: 46.
+Batch: storytelling-B001. Source findings accounted for: 219. Cards: 50.
 
 Topic names organize the queue. A card can inform several chapters, including topics outside this file’s label.
 
@@ -945,13 +945,93 @@ Finding IDs: A1Vj0WMyd_s:C0001:F0004.
 
 [[Deven Seenath - A1Vj0WMyd_s]]
 
+## Describe a desired lifestyle and its actual costs
+
+Card: storytelling-B001-K047 · Kind: source advice.
+
+Source recommends defining a desired lifestyle and calculating its costs, crediting an exercise to Andrew Tate. The attribution and the exercise’s effectiveness are not independently verified.
+
+**Conditions:** Different desired activities and responsibilities imply different costs; the source supplies no personal financial plan.
+
+**Application (researcher inference):** List what the user actually wants and distinguish measured current costs from assumptions.
+
+**Limits:** No budget adequacy, income promise or endorsement of the attributed teacher is inferred.
+
+> set basically like a a standard of how you want your life. Like do a calculation of everything.
+
+[InJ4kYy-Whw 00:10:49.160–00:10:54.030](https://www.youtube.com/watch?v=InJ4kYy-Whw&t=649s) · Cues: 719, 721, 723.
+
+Finding IDs: InJ4kYy-Whw:C0002:F0011.
+
+[[Deven Seenath - InJ4kYy-Whw]]
+
+## Audience classification advice has an unsupported RPM rationale
+
+Card: storytelling-B001-K048 · Kind: source advice.
+
+Source uses Cocomelon-like material as an example of child-directed content, otherwise suggesting not-made-for-kids for higher RPM/reach. That example is not a complete audience-classification test, and the performance claim is unverified.
+
+**Conditions:** Actual content and current official criteria must determine audience designation.
+
+**Application (researcher inference):** Review the real video and official criteria; do not choose an inaccurate setting for an assumed revenue benefit.
+
+**Limits:** No legal classification, distribution advantage or universal non-child setting is established.
+
+> Never say it's made for kids unless it's like really like kid content like Coco Melon, right?
+
+[S3QnCf14smg 00:10:10.160–00:10:18.310](https://www.youtube.com/watch?v=S3QnCf14smg&t=610s) · Cues: 653, 655, 657, 659.
+
+> if it's like anything other than like Cocamelon type content, then just say it's not made for kids because it's going to increase your RPM and it's also going to get pushed to more people.
+
+[S3QnCf14smg 00:10:16.880–00:10:25.190](https://www.youtube.com/watch?v=S3QnCf14smg&t=616s) · Cues: 659, 661, 663, 665, 667.
+
+Finding IDs: S3QnCf14smg:C0002:F0005.
+
+[[Deven Seenath - S3QnCf14smg]]
+
+## Time delegation and social boundaries reflect a money-first source view
+
+Card: storytelling-B001-K049 · Kind: source opinion.
+
+Speaker values buying time from others and limiting time with people who do not add value, framing it around earning opportunities. The sentence about cutting people off is incomplete and is not a universal relationship recommendation.
+
+**Conditions:** Paid help, opportunity cost and personal relationships are different decisions; the user defines their values.
+
+**Application (researcher inference):** Identify a real task that could be delegated and discuss desired boundaries without reducing relationships to income.
+
+**Limits:** No financial result or social-isolation prescription follows.
+
+> you need to buy as much of it as you can from other people
+
+[U5_Ys7g-9nQ 00:16:37.800–00:16:41.309](https://www.youtube.com/watch?v=U5_Ys7g-9nQ&t=997s) · Cues: 1119, 1121.
+
+Finding IDs: U5_Ys7g-9nQ:C0003:F0004.
+
+[[Deven Seenath - U5_Ys7g-9nQ]]
+
+## Acknowledge the gap between current state and desired state
+
+Card: storytelling-B001-K050 · Kind: source opinion.
+
+Source frames admitting an unmet goal as a way to reduce ego and see reality, also describing ego as a mask or avoidance. An exponential progress claim and the psychological explanation are not verified.
+
+**Conditions:** The source ends mid-thought; self-assessment is not a diagnosis or an obligation to devalue oneself.
+
+**Application (researcher inference):** Write current evidence and desired next step while preserving uncertainty and self-worth.
+
+**Limits:** No measured psychological or business effect is established.
+
+> The first thing you need to do is admit that you are not at the place where you want to be. And that's okay.
+
+[WlzFPdVm3I4 00:09:09.200–00:09:19.110](https://www.youtube.com/watch?v=WlzFPdVm3I4&t=549s) · Cues: 481, 483, 485, 487.
+
+Finding IDs: WlzFPdVm3I4:C0001:F0019.
+
+[[Deven Seenath - WlzFPdVm3I4]]
+
 ## Findings Without An Inferred Lesson
 
 These findings remain in the individual corpus. Disposition is based on content, never the queue label.
-
-This source reports a personal result or promotional outcome, but gives no repeatable action or decision in this finding; keep it as an attributed, unverified case.
-
-Finding IDs: -DPkb-JfzgM:C0003:F0008.
 
 This source reports a personal result or promotional outcome, but gives no repeatable action or decision in this finding; keep it as an attributed, unverified case.
 
@@ -1148,10 +1228,6 @@ Finding IDs: Qn-j3yX2ynk:C0001:F0006.
 This source reports a personal result or promotional outcome, but gives no repeatable action or decision in this finding; keep it as an attributed, unverified case.
 
 Finding IDs: Qn-j3yX2ynk:C0001:F0008.
-
-This source reports a personal result or promotional outcome, but gives no repeatable action or decision in this finding; keep it as an attributed, unverified case.
-
-Finding IDs: S3QnCf14smg:C0002:F0005.
 
 This source reports a personal result or promotional outcome, but gives no repeatable action or decision in this finding; keep it as an attributed, unverified case.
 
@@ -1433,10 +1509,6 @@ The caption is incomplete, unclear, or non-substantive here, so intended method 
 
 Finding IDs: W8H_YwhhZ5Q:C0001:F0001.
 
-This finding offers only an incomplete general prompt or goal and gives no actionable method in the cited statement.
-
-Finding IDs: WlzFPdVm3I4:C0001:F0019.
-
 The caption is incomplete, unclear, or non-substantive here, so intended method cannot be reliably recovered from this finding.
 
 Finding IDs: Wmz5bROkqaQ:C0001:F0005.
@@ -1449,14 +1521,6 @@ This source reports a personal result or promotional outcome, but gives no repea
 
 Finding IDs: Wv__EKVSFyg:C0001:F0003.
 
-This finding offers only an incomplete general prompt or goal and gives no actionable method in the cited statement.
-
-Finding IDs: InJ4kYy-Whw:C0002:F0011.
-
-This finding offers only an incomplete general prompt or goal and gives no actionable method in the cited statement.
-
-Finding IDs: U5_Ys7g-9nQ:C0003:F0004.
-
 This source reports a personal result or promotional outcome, but gives no repeatable action or decision in this finding; keep it as an attributed, unverified case.
 
 Finding IDs: 3sNCmPSJYj4:C0030:F0004.
@@ -1468,5 +1532,9 @@ Finding IDs: 3sNCmPSJYj4:C0036:F0012.
 This source reports a personal result or promotional outcome, but gives no repeatable action or decision in this finding; keep it as an attributed, unverified case.
 
 Finding IDs: HcmhDiNN_sU:C0001:F0001.
+
+Full cited passage promises a general audience and a warmup bump but does not identify the option being disabled, and the zero-view sentence is malformed. No reliable setting change can be reconstructed from this finding alone.
+
+Finding IDs: -DPkb-JfzgM:C0003:F0008.
 
 [[Cross-Video Synthesis]] · [[Synthesis Research Method]]

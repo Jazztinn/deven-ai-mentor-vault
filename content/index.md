@@ -20,7 +20,7 @@ Each source note retains quotations, URLs, caption cue indices, millisecond rang
 
 ## Publication
 
-Updated **2026-10-20 14:10 (Asia/Manila)**. This is a reading copy of the current Obsidian research vault. New source notes will appear when the next research checkpoint is published.
+Updated **2026-10-21 10:24 (Asia/Manila)**. This is a reading copy of the current Obsidian research vault. New source notes will appear when the next research checkpoint is published.
 
 Additional source-list IDs without caption files: **11**.
 

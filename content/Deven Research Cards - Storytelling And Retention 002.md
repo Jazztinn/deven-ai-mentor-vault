@@ -7,7 +7,7 @@ title: "Storytelling And Retention 002"
 
 This batch adds story hooks, multi-thread open loops, conflict and emotional variation, audiovisual editing, visual storytelling, language access, CTA placement, pacing, and format-specific craft advice. Other findings concern monetization, channel operations, platform claims, or personal context. Performance effects remain source claims unless independently verified.
 
-Batch: storytelling-B002. Source findings accounted for: 208. Cards: 37.
+Batch: storytelling-B002. Source findings accounted for: 208. Cards: 39.
 
 Topic names organize the queue. A card can inform several chapters, including topics outside this file’s label.
 
@@ -755,6 +755,58 @@ Finding IDs: oSxWpZxdbRs:C0010:F0011.
 
 [[Deven Seenath - oSxWpZxdbRs]]
 
+## A warning about impersonation needs independent identity checks
+
+Card: storytelling-B002-K038 · Kind: source explanation.
+
+Speaker warns of Discord impersonators and says he will not DM viewers. The spoken display name differs from creator metadata in the captions; the historical statement is not a verified current account identifier or contact promise.
+
+**Conditions:** Names, punctuation and current accounts cannot be authenticated from this caption.
+
+**Application (researcher inference):** Verify identity through an independently known official channel before acting on a contact or payment request.
+
+**Limits:** No current username or account authenticity is established.
+
+> A lot of you guys have gotten scammed by random people on the Discord pretending to be me.
+
+[dJxUf4AsqZk 00:32:04.000–00:32:09.029](https://www.youtube.com/watch?v=dJxUf4AsqZk&t=1924s) · Cues: 1921, 1923, 1925.
+
+> I will never DM you.
+
+[dJxUf4AsqZk 00:32:14.399–00:32:16.549](https://www.youtube.com/watch?v=dJxUf4AsqZk&t=1934s) · Cues: 1933.
+
+Finding IDs: dJxUf4AsqZk:C0004:F0007.
+
+[[Deven Seenath - dJxUf4AsqZk]]
+
+## Feature-eligibility routes are source-era account instructions
+
+Card: storytelling-B002-K039 · Kind: source advice.
+
+Speaker directs users to Feature eligibility, names a middle tier captioned “intermittent” and advanced access, and describes ID, channel history and video verification. He mentions over-13 and under-18 users and around two months of account use. These ages, timing and routes remain unverified descriptions.
+
+**Conditions:** The actual owner, age, country, account status and current official instructions matter.
+
+**Application (researcher inference):** Inspect the current account’s eligibility options and follow its official requirements rather than assuming age or a fixed waiting period qualifies it.
+
+**Limits:** Do not infer permission to misrepresent ownership or use another person’s identity. “Intermittent” is retained as caption wording.
+
+> Click on feature eligibility.
+
+[vB6aE3PHINQ 00:55:17.200–00:55:20.549](https://www.youtube.com/watch?v=vB6aE3PHINQ&t=3317s) · Cues: 3523, 3525.
+
+> If you were under the age of 18, you can still apply. All right. As long as you're over the age of 13,
+
+[vB6aE3PHINQ 00:56:19.920–00:56:30.230](https://www.youtube.com/watch?v=vB6aE3PHINQ&t=3379s) · Cues: 3597, 3599, 3601, 3603.
+
+> Takes around two months, right, of like actually watching videos and uploading videos on this channel.
+
+[vB6aE3PHINQ 00:56:39.040–00:56:46.230](https://www.youtube.com/watch?v=vB6aE3PHINQ&t=3399s) · Cues: 3613, 3615, 3617, 3619.
+
+Finding IDs: vB6aE3PHINQ:C0008:F0006, vB6aE3PHINQ:C0008:F0009.
+
+[[Deven Seenath - vB6aE3PHINQ]]
+
 ## Findings Without An Inferred Lesson
 
 These findings remain in the individual corpus. Disposition is based on content, never the queue label.
@@ -1015,10 +1067,6 @@ This source reports a personal result or promotional outcome, but gives no repea
 
 Finding IDs: vB6aE3PHINQ:C0004:F0012.
 
-This finding offers only an incomplete general prompt or goal and gives no actionable method in the cited statement.
-
-Finding IDs: vB6aE3PHINQ:C0008:F0009.
-
 This source reports a personal result or promotional outcome, but gives no repeatable action or decision in this finding; keep it as an attributed, unverified case.
 
 Finding IDs: vB6aE3PHINQ:C0011:F0011.
@@ -1026,10 +1074,6 @@ Finding IDs: vB6aE3PHINQ:C0011:F0011.
 This source reports a personal result or promotional outcome, but gives no repeatable action or decision in this finding; keep it as an attributed, unverified case.
 
 Finding IDs: vB6aE3PHINQ:C0023:F0012.
-
-This finding offers only an incomplete general prompt or goal and gives no actionable method in the cited statement.
-
-Finding IDs: dJxUf4AsqZk:C0004:F0007.
 
 This source reports a personal result or promotional outcome, but gives no repeatable action or decision in this finding; keep it as an attributed, unverified case.
 
@@ -1062,10 +1106,6 @@ Finding IDs: tPFCnQ56AG4:C0001:F0003.
 This finding describes a case detail or visual/text observation without giving a reusable action, rationale, or interpretive method.
 
 Finding IDs: u6fIse_fqGk:C0001:F0009.
-
-The caption is incomplete, unclear, or non-substantive here, so intended method cannot be reliably recovered from this finding.
-
-Finding IDs: vB6aE3PHINQ:C0008:F0006.
 
 The caption is incomplete, unclear, or non-substantive here, so intended method cannot be reliably recovered from this finding.
 

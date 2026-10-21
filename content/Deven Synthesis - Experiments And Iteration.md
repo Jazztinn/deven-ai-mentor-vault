@@ -35,7 +35,7 @@ Several sources recommend candid review, one concrete improvement, and applying 
 
 **Limits:** Personal practice and coaching accounts are self-reported; they do not establish that repetition or paid feedback caused growth.
 
-Evidence examples: [5PPohsByj3s 00:19:49.600](https://www.youtube.com/watch?v=5PPohsByj3s&t=1189s) · [2_B74edoIdU 00:06:16.840](https://www.youtube.com/watch?v=2_B74edoIdU&t=376s) · [3sNCmPSJYj4 04:09:34.520](https://www.youtube.com/watch?v=3sNCmPSJYj4&t=14974s) · [7HJUrGNtF9g 00:23:00.880](https://www.youtube.com/watch?v=7HJUrGNtF9g&t=1380s).
+Evidence examples: [5PPohsByj3s 00:19:49.600](https://www.youtube.com/watch?v=5PPohsByj3s&t=1189s) · [2_B74edoIdU 00:06:16.840](https://www.youtube.com/watch?v=2_B74edoIdU&t=376s) · [3sNCmPSJYj4 04:09:34.520](https://www.youtube.com/watch?v=3sNCmPSJYj4&t=14974s) · [4iOME-RecoQ 00:07:15.520](https://www.youtube.com/watch?v=4iOME-RecoQ&t=435s).
 
 Audit cards: experiments-B001-K002, experiments-B001-K007, experiments-B001-K008, experiments-B002-K004.
 
@@ -275,13 +275,13 @@ Quoted examples illustrate the approved card graph. Caption ranges locate the so
 
 [[Deven Seenath - 3sNCmPSJYj4]]
 
-### 7HJUrGNtF9g:C0003:F0008
+### 4iOME-RecoQ:C0001:F0007
 
-> everything you said um and then I come back get some feedback what you know you tell me some stuff to do differently some new stuff to try out go do it for like a week you know get the result come back
+> I'd say just improve every day. Focus on the work you have to do and don't obsess too much over the results because they will shift um they will always not be consistent, you
 
-[00:23:00.880–00:23:14.470](https://www.youtube.com/watch?v=7HJUrGNtF9g&t=1380s) · Original cues: 1489, 1491, 1493, 1495, 1497, 1499.
+[00:07:15.520–00:07:30.110](https://www.youtube.com/watch?v=4iOME-RecoQ&t=435s) · Original cues: 469, 471, 473, 475, 477, 479.
 
-[[Deven Seenath - 7HJUrGNtF9g]]
+[[Deven Seenath - 4iOME-RecoQ]]
 
 ### 3sNCmPSJYj4:C0026:F0001
 
@@ -421,4 +421,4 @@ Quoted examples illustrate the approved card graph. Caption ranges locate the so
 
 ## Related Research
 
-[[Cross-Video Synthesis]] · [[Synthesis Research Method]] · [[Synthesis External Definitions]] · [[Deven Synthesis - Analytics And Measurement]] · [[Deven Synthesis - Hooks And Packaging]] · [[Deven Synthesis - Niches And Idea Research]] · [[Deven Synthesis - Production And AI Tools]] · [[Deven Synthesis - Storytelling And Retention]]
+[[Cross-Video Synthesis]] · [[Synthesis Research Method]] · [[Synthesis External Definitions]] · [[Deven Synthesis - Analytics And Measurement]] · [[Deven Synthesis - Hooks And Packaging]] · [[Deven Synthesis - Mindset And Skill Development]] · [[Deven Synthesis - Niches And Idea Research]] · [[Deven Synthesis - Production And AI Tools]] · [[Deven Synthesis - Storytelling And Retention]]

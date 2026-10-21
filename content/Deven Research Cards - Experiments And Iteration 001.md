@@ -7,7 +7,7 @@ title: "Experiments And Iteration 001"
 
 Packet contains practical recommendations to diagnose a specific result, form a hypothesis, test a change, and carry learning into later uploads. It also contains contradictory 3:2 allocations and unverified platform-testing timelines, plus substantial promotion, opinion, and anecdotal material. Findings remain attributed; corpus is caption-only and does not establish causal outcomes.
 
-Batch: experiments-B001. Source findings accounted for: 234. Cards: 32.
+Batch: experiments-B001. Source findings accounted for: 234. Cards: 34.
 
 Topic names organize the queue. A card can inform several chapters, including topics outside this file’s label.
 
@@ -43,7 +43,7 @@ Finding IDs: KtepHE8miks:C0002:F0001, oSxWpZxdbRs:C0037:F0004, S-ymCwmSZpo:C0002
 
 Card: experiments-B001-K002 · Kind: source advice.
 
-Creators describe repeated critique and improvement as a practice: identify a fix in each video, analyze poor outcomes, and apply learning to later uploads. One speaker cautions against repeating a template when performance stalls. These are process recommendations; claimed growth or view effects are not established.
+Creators describe repeated critique and improvement as a practice: identify a fix in each video, analyze poor outcomes, and apply learning to later uploads. One speaker cautions against repeating a template when performance stalls. These are process recommendations; claimed growth or view effects are not established. A participant also advises focusing on daily improvement and controllable work while real-time results fluctuate; consistency is a personal recommendation, not a guaranteed outcome.
 
 **Conditions:** Applies to creators with a concrete issue to inspect and capacity to change a specific part. Advice about template fatigue is one creator’s diagnosis of channels near his stated view level.
 
@@ -63,9 +63,13 @@ Creators describe repeated critique and improvement as a practice: identify a fi
 
 [3sNCmPSJYj4 04:09:34.520–04:09:42.510](https://www.youtube.com/watch?v=3sNCmPSJYj4&t=14974s) · Cues: 16761, 16763, 16765, 16767.
 
-Finding IDs: -srWwtaAZag:C0004:F0010, 2_B74edoIdU:C0002:F0002, 2_B74edoIdU:C0004:F0001, 5PPohsByj3s:C0003:F0005, FDsQGJTNItg:C0001:F0007, mgaLYF_3PHU:C0002:F0015, mgaLYF_3PHU:C0001:F0002, dUfZNz3VkhM:C0002:F0003, VWXsfUC2vzQ:C0002:F0008, 2_B74edoIdU:C0001:F0007, 3sNCmPSJYj4:C0031:F0010.
+> I'd say just improve every day. Focus on the work you have to do and don't obsess too much over the results because they will shift um they will always not be consistent, you
 
-[[Deven Seenath - -srWwtaAZag]] · [[Deven Seenath - 2_B74edoIdU]] · [[Deven Seenath - 3sNCmPSJYj4]] · [[Deven Seenath - 5PPohsByj3s]] · [[Deven Seenath - FDsQGJTNItg]] · [[Deven Seenath - VWXsfUC2vzQ]] · [[Deven Seenath - dUfZNz3VkhM]] · [[Deven Seenath - mgaLYF_3PHU]]
+[4iOME-RecoQ 00:07:15.520–00:07:30.110](https://www.youtube.com/watch?v=4iOME-RecoQ&t=435s) · Cues: 469, 471, 473, 475, 477, 479.
+
+Finding IDs: -srWwtaAZag:C0004:F0010, 2_B74edoIdU:C0002:F0002, 2_B74edoIdU:C0004:F0001, 5PPohsByj3s:C0003:F0005, FDsQGJTNItg:C0001:F0007, mgaLYF_3PHU:C0002:F0015, mgaLYF_3PHU:C0001:F0002, dUfZNz3VkhM:C0002:F0003, VWXsfUC2vzQ:C0002:F0008, 2_B74edoIdU:C0001:F0007, 3sNCmPSJYj4:C0031:F0010, 4iOME-RecoQ:C0001:F0007.
+
+[[Deven Seenath - -srWwtaAZag]] · [[Deven Seenath - 2_B74edoIdU]] · [[Deven Seenath - 3sNCmPSJYj4]] · [[Deven Seenath - 4iOME-RecoQ]] · [[Deven Seenath - 5PPohsByj3s]] · [[Deven Seenath - FDsQGJTNItg]] · [[Deven Seenath - VWXsfUC2vzQ]] · [[Deven Seenath - dUfZNz3VkhM]] · [[Deven Seenath - mgaLYF_3PHU]]
 
 ## Test changes on the channel where they need to work
 
@@ -731,6 +735,54 @@ Finding IDs: GV0L53oA7N0:C0002:F0009.
 
 [[Deven Seenath - GV0L53oA7N0]]
 
+## Support for personal goals is a relationship preference
+
+Card: experiments-B001-K033 · Kind: source opinion.
+
+Source values a partner who encourages goals, helps during failure and listens to interests, while acknowledging interest cannot be forced. A soccer/stable-job example and a 300-videos-daily comparison illustrate his preference; they are not benchmark evidence or a universal relationship rule.
+
+**Conditions:** Only one person’s view is supplied; the actual relationship and both people’s needs are unknown.
+
+**Application (researcher inference):** Let the user define what support and communication they want rather than prescribing a breakup or unconditional agreement.
+
+**Limits:** No psychological, financial or relationship outcome is established. The 300-video comparison is rhetorical.
+
+> you should be with someone who's going to be like yeah you got this I believe in you
+
+[JG6uSfHrXQo 00:02:54.000–00:02:59.030](https://www.youtube.com/watch?v=JG6uSfHrXQo&t=174s) · Cues: 175, 177, 179.
+
+> if you fail do they pick you up if you are struggling do they try to help
+
+[JG6uSfHrXQo 00:05:05.479–00:05:13.629](https://www.youtube.com/watch?v=JG6uSfHrXQo&t=305s) · Cues: 303, 305, 307.
+
+> you can't force someone to be interested in what you're interested in
+
+[JG6uSfHrXQo 00:05:21.880–00:05:28.350](https://www.youtube.com/watch?v=JG6uSfHrXQo&t=321s) · Cues: 319, 321, 323.
+
+Finding IDs: JG6uSfHrXQo:C0001:F0004, JG6uSfHrXQo:C0001:F0006, JG6uSfHrXQo:C0002:F0002.
+
+[[Deven Seenath - JG6uSfHrXQo]]
+
+## An extreme work slogan is not a probability estimate
+
+Card: experiments-B001-K034 · Kind: source opinion.
+
+Speaker urges doing enough work that failure becomes unreasonable. This is motivational language without a specified workload or a tested probability.
+
+**Conditions:** Work quality, constraints and outcomes vary; persistence does not establish certainty.
+
+**Application (researcher inference):** Define a bounded task and learning checkpoint rather than treating exhaustion or volume as a guarantee.
+
+**Limits:** No amount of work or probability of failure is established.
+
+> Do so much work, it is unreasonable for you to fail.
+
+[egfVvFSYioA 00:00:00.000–00:00:04.110](https://www.youtube.com/watch?v=egfVvFSYioA&t=0s) · Cues: 1, 3.
+
+Finding IDs: egfVvFSYioA:C0001:F0001.
+
+[[Deven Seenath - egfVvFSYioA]]
+
 ## Findings Without An Inferred Lesson
 
 These findings remain in the individual corpus. Disposition is based on content, never the queue label.
@@ -819,10 +871,6 @@ Attributed opinion, forecast, or broad explanation supplies no sufficiently grou
 
 Finding IDs: 4QIMd3D1Tp4:C0001:F0003.
 
-No clear, transferable experiment or iteration method; statement is motivational, context-specific, or too vague to operationalize.
-
-Finding IDs: 4iOME-RecoQ:C0001:F0007.
-
 Promotional or testimonial claim with unverified outcomes; no transferable experiment protocol is established.
 
 Finding IDs: 5lIhmd9EqMI:C0001:F0008.
@@ -907,18 +955,6 @@ Isolated or unclear personal account lacks a comparable test, controls, or a rep
 
 Finding IDs: InJ4kYy-Whw:C0002:F0002.
 
-Relationship advice falls outside content experiment and iteration methods.
-
-Finding IDs: JG6uSfHrXQo:C0001:F0004.
-
-Relationship advice falls outside content experiment and iteration methods.
-
-Finding IDs: JG6uSfHrXQo:C0001:F0006.
-
-Relationship advice falls outside content experiment and iteration methods.
-
-Finding IDs: JG6uSfHrXQo:C0002:F0002.
-
 Attributed opinion, forecast, or broad explanation supplies no sufficiently grounded, transferable experiment method.
 
 Finding IDs: JG6uSfHrXQo:C0002:F0003.
@@ -986,10 +1022,6 @@ Finding IDs: bdtBUMRS-zQ:C0001:F0001.
 Attributed opinion, forecast, or broad explanation supplies no sufficiently grounded, transferable experiment method.
 
 Finding IDs: cqWhCA2UUc8:C0001:F0002.
-
-No clear, transferable experiment or iteration method; statement is motivational, context-specific, or too vague to operationalize.
-
-Finding IDs: egfVvFSYioA:C0001:F0001.
 
 Promotional or testimonial claim with unverified outcomes; no transferable experiment protocol is established.
 
